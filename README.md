@@ -7,6 +7,6 @@ The same idea can be implemented as mobile application, that sends notifications
 
 It's simple as can be: if you liked some person but lost precious chance to get along, "Offline" will give you a chance to fix the situation. The key feature is catching approximate meeting point.
 
-It also could be a plugin or a browser application, integrated with social networks. For example, that would be easily implemented for vk.com as a default profile option.
+It also could be a plugin or a browser application, integrated with social networks. For example, that would be easily implemented for facebook.com or vk.com as a default profile option.
 
 Profit comes from sincere donations. No ads.
