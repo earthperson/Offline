@@ -17,3 +17,6 @@ Profit comes from sincere donations. No ads.
 
 In addition to the my above idea information I think that it is better: watch with half idea functionality (meeting point and time) are for the outdoor, as when web-application are Watch and Facebook mutual solution for the user home. So in general, my suggestion for the watch are not directly adding an options to the watch (meeting point and time). It's a bit deeper meaning. As new inspiration for watch using at all (for some people category).
 
+## P. S. 
+Must be human-machine-human not machine-human-machine!
+
