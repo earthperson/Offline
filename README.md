@@ -4,6 +4,8 @@
 
 **© Впервые сформулировано 29.01.2012 на русском языке, после нескольких редакций и перевода на англ. язык актуально в таком виде.**
 
+В прошлом визитные карточки, а позже спросить номер телефона было актуально. Современные соц. сети ориентированы на поиск подобного (пузырь фильтров), а также получение прибыли. Считается, что оставить визитную карточку или номер телефона тоже в итоге — суть получение прибыли и больше характерно для организаций. Следовательно, проект для тех кому нужно найдя за пределами пузыря фильтров что-то оригинальное собраться с мыслями…
+
 I mean to create web project, named "Offline". People are passing by each other all the time: outside, in subway or restaurant and... never meet, but get off on the next stop.
 
 It will take only a couple of minutes to login and mention the place where was person you liked. If the one wants to meet you, he or she can reply and start chatting right on that web site. The same idea can be implemented as mobile application, that sends notifications if people, that ever chatted in "Offline" are within 100 meters.
